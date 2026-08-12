@@ -1,4 +1,17 @@
-# 8/12 Check-in：回饋、我的判斷與下一步
+<div align="center">
+  <h1>8/12 Check-in</h1>
+  <p><strong>回饋、我的判斷與下一步</strong></p>
+  <p><code>Working Decision</code> · <code>2026-08-12</code></p>
+  <p>
+    <a href="./2026-08-12-下一步決策與判斷依據.md">下一步決策與判斷依據</a>
+    ·
+    <a href="./產品決策層級-Product-Focus-Product-Principle-Solution-Hypothesis.md">產品決策層級</a>
+    ·
+    <a href="./2026-08-12-Check-in-本人發言與BU-Heads回饋.md">會議證據</a>
+  </p>
+</div>
+
+---
 
 > 本 repo 保存 2026-08-12 Check-in 的原音、逐字稿、回饋整理，以及我在會後形成的 Working Decision。會議回饋與我的產品判斷分開記錄；目前仍不代表使用者需求、採用或產品價值已獲驗證。
 
