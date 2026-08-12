@@ -85,4 +85,3 @@ flowchart TD
 - [本人發言與 BU Heads 回饋完整整理](<2026-08-12-Check-in-本人發言與BU-Heads回饋.md>)
 - [完整 TXT 逐字稿](<2026-08-12-check-in-逐字稿.txt>)
 - [原始 M4A](<check_in[2].m4a>)
-
