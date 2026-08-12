@@ -155,5 +155,5 @@ BU Heads 的回饋以 Robinhood 為例，強調它面向新使用者時，不只
 ## 來源
 
 - [原始 M4A](<check_in[2].m4a>)
-- [完整 TXT 逐字稿](/Users/chiu/Documents/Cmoney/0812_check-in/2026-08-12-check-in-逐字稿.txt)
-- [附時間碼 SRT](/Users/chiu/Documents/Cmoney/0812_check-in/2026-08-12-check-in-逐字稿.srt)
+- [完整 TXT 逐字稿](<2026-08-12-check-in-逐字稿.txt>)
+- 附時間碼 SRT：未納入此 repo
