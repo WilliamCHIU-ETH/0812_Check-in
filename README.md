@@ -6,7 +6,7 @@
 
 ---
 
-> 本 repo 保存 2026-08-12 Check-in 的原音、逐字稿、本人發言與 BU Heads 回饋整理。
+> 本 repo 整理 2026-08-12 Check-in 的主管回饋與後續判斷；原始音檔與逐字稿集中於 `raw_data/`。
 
 ## Context
 
@@ -82,8 +82,6 @@ flowchart TB
 
 ## 文件導覽
 
-- [本人發言與 BU Heads 回饋完整整理](<2026-08-12-Check-in-本人發言與BU-Heads回饋.md>)
-- [完整 TXT 逐字稿](<2026-08-12-check-in-逐字稿.txt>)
-- [原始 M4A](<check_in[2].m4a>)
-- [會後延伸思考](<2026-08-12-下一步決策與判斷依據.md>)
+- [本人發言與主管回饋完整整理](<2026-08-12-Check-in-本人發言與主管回饋.md>)
 - [產品決策層級補充筆記](<產品決策層級-Product-Focus-Product-Principle-Solution-Hypothesis.md>)
+- [會後延伸思考](<2026-08-12-下一步決策與判斷依據.md>)
