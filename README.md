@@ -2,6 +2,13 @@
   <h1>8/12 Check-in</h1>
   <p><strong>主管回饋</strong></p>
   <p><code>2026-08-12</code></p>
+  <p>
+    <a href="./2026-08-12-Check-in-本人發言與主管回饋.md">本人發言與主管回饋</a>
+    ·
+    <a href="./產品決策層級-Product-Focus-Product-Principle-Solution-Hypothesis.md">產品決策層級</a>
+    ·
+    <a href="./2026-08-12-下一步決策與判斷依據.md">我的判斷以及延伸思考</a>
+  </p>
 </div>
 
 ---
@@ -79,9 +86,3 @@ flowchart TB
 主管以 Robinhood 為例說明，面向新使用者的產品不一定只是從複雜產品中刪除功能，也可能需要重新設計 UI、互動方式、獲客機制與整體產品組合。
 
 因此，「簡化既有產品」與「為不同使用者重新定義產品」是兩條不同路線。
-
-## 文件導覽
-
-- [本人發言與主管回饋完整整理](<2026-08-12-Check-in-本人發言與主管回饋.md>)
-- [產品決策層級補充筆記](<產品決策層級-Product-Focus-Product-Principle-Solution-Hypothesis.md>)
-- [會後延伸思考](<2026-08-12-下一步決策與判斷依據.md>)
